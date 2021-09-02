@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432575354720",
+    "project_id": "vibeauth",
+    "storage_bucket": "vibeauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432575354720:android:4ff0a4dc07bc52f9657005",
+        "android_client_info": {
+          "package_name": "com.example.vibe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432575354720-bt4seg9c5jnu788r2d0annaikgm706nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzGmRA1wOCLr8eV3ivjohtW4ykd0BEiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432575354720-bt4seg9c5jnu788r2d0annaikgm706nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
